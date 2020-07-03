@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PackName;
+namespace abduraim\PackName;
 
 
 class SayHello
